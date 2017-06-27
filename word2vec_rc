@@ -1,0 +1,9 @@
+###########################################
+# Export w2v commands to PATH
+###########################################
+
+# constants
+baseDir=$(cd `dirname "$0"`;pwd)
+# functions
+export W2V_PATH=$baseDir/src
+export PATH=$PATH:$W2V_PATH

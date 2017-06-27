@@ -10,6 +10,17 @@ Then, you get ```src/compute-accuracy,src/distance,src/word-analogy,src/word2phr
 
 ## Usage
 
+* add commands to PATH
+
+```
+. ./word2vec_rc
+```
+
+* test
+```
+word2vec
+```
+
 
 # Trouble Shooting
 
